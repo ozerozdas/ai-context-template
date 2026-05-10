@@ -5,7 +5,7 @@ Overview of the AI context system and document navigation guide.
 ## AI Project Context
 
 ### Advanced
-
+```
 ├── AGENTS.md
 ├── ai
 │   ├── agents
@@ -46,11 +46,11 @@ Overview of the AI context system and document navigation guide.
 ├── README.md
 ├── STACK.md
 └── TASKS.md
-
+```
 9 directories, 32 files
 
 ### Standard
-
+```
 ├── AGENTS.md
 ├── architecture
 │   ├── ai-system.md
@@ -71,11 +71,11 @@ Overview of the AI context system and document navigation guide.
 │   └── review.md
 ├── README.md
 └── TASKS.md
-
+```
 5 directories, 16 files
 
 ### Minimal
-
+```
 ├── AGENTS.md
 ├── architecture
 │   └── overview.md
@@ -84,5 +84,5 @@ Overview of the AI context system and document navigation guide.
 ├── DECISIONS.md
 ├── README.md
 └── TASKS.md
-
+```
 3 directories, 6 files
